@@ -15,11 +15,15 @@ The script:
 ---
 
 ## 🖼️ Example Workflow
-1. Load an image (`1.jpg`).
+1. Load an image 
+<img width="538" height="329" alt="untitled1" src="https://github.com/user-attachments/assets/25e3e7dc-ad31-4aa8-b893-81840601e7ef" />
+
 2. Apply brightness adjustments:
    - Darkened Image = `img - 50`
    - Brightened Image = `img + 50`
 3. Display results using `subplot`.
+   <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/903da3d9-5676-40d0-bb58-a44415cbf9b5" />
+
 
 ---
 
